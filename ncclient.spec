@@ -40,5 +40,8 @@ rm -rf %{buildroot}
 
 
 %changelog
+* Mon Oct 07 2013 Pradeep Kilambi <pkilambi@cisco.com> 0.3-1
+- new package built with tito
+
 
 
